@@ -15,8 +15,8 @@ import { CoverEnd } from './components/content/coverEnd';
 
 function App() {
   return (
-    <div className="flex justify-center overflow-hidden items-center h-screen">
-      <div className='w-[550px] bg-red-200'>
+    <div className="flex justify-center overflow-hidden items-center h-screen bg-red-200">
+      <div className='w-[550px] '>
         <HTMLFlipBook
           width={350}
           height={637}
