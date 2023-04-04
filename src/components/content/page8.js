@@ -6,7 +6,7 @@ export const Page8 = ({ number }) => {
     return (
         <Background>
             <div className="z-40 relative">
-                <Title>Bab VI Selamat Ulang Tahun</Title>
+                <Title>Bab IV Selamat Ulang Tahun</Title>
                 <div className="leading-normal text-xs indent-4 text-justify">
                     <p>
                         Selamat ulang tahun yang ke-23, sayang! moga-moga di usia yang baru
