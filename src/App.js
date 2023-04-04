@@ -16,43 +16,43 @@ import { CoverEnd } from './components/content/coverEnd';
 function App() {
   return (
     <div className="flex justify-center overflow-hidden items-center h-screen">
-      <div className='w-[550px]'>
+      <div className='w-[550px] bg-red-200'>
         <HTMLFlipBook
           width={350}
-          height={650}
+          height={637}
           maxShadowOpacity={0.5}
           mobileScrollSupport={true}
           className=""
 
         >
-          <div className='bg-red-100'>
+          <div className=''>
             <Cover />
           </div>
-          <div className='bg-red-100'>
+          <div className=''>
             <Page1 number={1} />
           </div>
-          <div className='bg-red-100'>
+          <div className=''>
             <Page2 number={2} />
           </div>
-          <div className='bg-red-100'>
+          <div className=''>
             <Page3 number={3} />
           </div>
-          <div className='bg-red-100'>
+          <div className=''>
             <Page4 number={4} />
           </div>
-          <div className='bg-red-100'>
+          <div className=''>
             <Page5 number={5} />
           </div>
-          <div className='bg-red-100'>
+          <div className=''>
             <Page6 number={6} />
           </div>
-          <div className='bg-red-100'>
+          <div className=''>
             <Page7 number={7} />
           </div>
-          <div className='bg-red-100'>
+          <div className=''>
             <Page8 number={8} />
           </div>
-          <div className='bg-red-100'>
+          <div className=''>
             <CoverEnd />
           </div>
         </HTMLFlipBook>

@@ -5,7 +5,7 @@ export const Cover = () => {
         <div className="relative h-full">
             <img
                 src={`${process.env.REACT_APP_PUBLIC_URL}/image/cover.jpg`}
-                className="fixed inset-0 object-contain h-full"
+                className="fixed inset-0 object-contain h-full shadow-md rounded-md"
                 alt="cover"
             />
         </div>
