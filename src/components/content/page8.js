@@ -9,7 +9,7 @@ export const Page8 = ({ number }) => {
                 <Title>Bab VI Selamat Ulang Tahun</Title>
                 <div className="leading-normal text-xs indent-4 text-justify">
                     <p>
-                        Selamat ulang tahun yang ke-23, sayang! Semoga di usia yang baru
+                        Selamat ulang tahun yang ke-23, sayang! moga-moga di usia yang baru
                         ini, kamu bisa meraih semua impianmu dan menggapai kesuksesan yang
                         kamu inginkan. Yaa semoga aku bisa selalu berada di sampingmu,
                         mendukungmu dan mencintaimu tanpa syarat. Selamat ulang tahun!!

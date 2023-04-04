@@ -16,13 +16,14 @@ import { CoverEnd } from './components/content/coverEnd';
 function App() {
   return (
     <div className="flex justify-center overflow-hidden items-center h-screen">
-      <div className='w-[550px] h-full'>
+      <div className='w-[550px] h-full '>
         <HTMLFlipBook
-          width={407}
+          width={350}
           height={637}
           maxShadowOpacity={0.5}
           mobileScrollSupport={true}
           className=" h-full w-full"
+
         >
           <div className='bg-red-100'>
             <Cover />

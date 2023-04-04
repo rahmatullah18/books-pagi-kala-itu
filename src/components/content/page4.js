@@ -27,7 +27,7 @@ export const Page4 = ({ number }) => {
             </div>
 
             <img
-                className="absolute bottom-10 w-20 right-4 z-10"
+                className="absolute bottom-5 w-20 right-4 z-10"
                 src={`${process.env.REACT_APP_PUBLIC_URL}/image/women.svg`}
                 alt="men"
             />

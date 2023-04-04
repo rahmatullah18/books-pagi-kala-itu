@@ -5,7 +5,7 @@ export const CoverEnd = () => {
     return (
         <div className="relative h-full">
             <img
-                src={`${process.env.REACT_APP_PUBLIC_URL}/image/penutup.svg`}
+                src={`${process.env.REACT_APP_PUBLIC_URL}/image/penutup.jpg`}
                 className="fixed inset-0"
                 alt="cover"
             />
