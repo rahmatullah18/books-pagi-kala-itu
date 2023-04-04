@@ -13,7 +13,7 @@ export const Page4 = ({ number }) => {
                         dengan “Afni” nama yang indah yang kutau saat absen kelas. Kebetulan
                         hari itu kuliah pelajaran Algoritma pemrograman, pelajaran yang
                         benar-benar ku kuasai karna dari SMK sudah pernah kupelajarin. Saat
-                        matkul tersebut kebetulan posisi duduknya belakang kursiku jadi
+                        matkul tersebut kebetulan posisi duduknya dibelakang kursiku jadi
                         untuk berinteraksi mudah. Momen interaksi pertama pun tiba, dia
                         tiba-tiba memanggilku <i>“mamat”</i> entah dari mana dia tau nama
                         pendekku aku pun langsung menoleh tanpa basa basi kearahnya dan
