@@ -30,14 +30,6 @@ export const Page2 = ({ number }) => {
                         tapi bedannya dia tidak jongkok tapi berdiri depan kelas kek orang
                         bego.
                     </p>
-                    <p>
-                        Setelah beberapa saat menunggu dengan perasaan yang sangat jenuh di
-                        depan kelas tanpa ada kepastian kuputuskan untuk mendatangi Wanita
-                        tersebut dan berkata <i>“kamu kelas D juga?”</i> diapun menjawab
-                        <i>“iya”</i> lalu kusambung <i>“ayo masuk kelas bareng”</i> aku
-                        berfikir mengajaknya masuk kelas biar kalau di hukum atau di usir
-                        sama dosen ada teman dan tidak malu sendiri.
-                    </p>
                 </div>
             </div>
             <div className="w-8 h-8 absolute text-white z-20 bottom-1 left-1/2 rounded-full flex justify-center items-center bg-gray-800">
